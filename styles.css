@@ -3,6 +3,32 @@
   margin: 0;
 }
 
+html {
+  font-size: 10px;
+}
+
 body {
   box-sizing: border-box;
+  font-size: 3rem;
+}
+.row-one {
+  display: flex;
+}
+.row-two {
+  display: flex;
+}
+.row-three {
+  display: flex;
+}
+.row-four {
+  display: flex;
+}
+.row-five {
+  display: flex;
+}
+p {
+  padding: 1.2rem 2rem;
+  margin: 0.5rem;
+  border: 3px solid #242424;
+  border-radius: 6px;
 }
